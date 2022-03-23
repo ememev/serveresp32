@@ -4,6 +4,7 @@
 #include <SPIFFS.h> //Libreria para importar archivos css, html y js externos.
 //--Agregando comentario para calar el git
 //--Agregando ccomentario para ver el git diff -staged
+//--creando una nueva rama para no afectar al main.
 //------------------Servidor Web en puerto 80---------------------
 
 //WiFiServer server(80);
